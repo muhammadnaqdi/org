@@ -1,0 +1,17 @@
+#+title: Dailies
+
+* Very Important
+** TODO Study Computer Science
+SCHEDULED: <2023-09-11 Mon ++1d>
+* Less Important
+** TODO Study Math
+SCHEDULED: <2023-09-11 Mon ++1d>
+** TODO Study English
+SCHEDULED: <2023-09-11 Mon ++1d>
+* Nice to Do
+** TODO Read
+SCHEDULED: <2023-09-11 Mon ++1d>
+** TODO Write
+SCHEDULED: <2023-09-11 Mon ++1d>
+** TODO Practice Typing
+SCHEDULED: <2023-09-11 Mon ++1d>
