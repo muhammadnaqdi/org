@@ -5,17 +5,14 @@
 DEADLINE: <2023-09-30 Sat>
 * Less Important
 ** TODO Learn Enough Command Line
-SCHEDULED: <2023-09-12 Tue>
-** TODO Learn Enough Text Editor
 SCHEDULED: <2023-09-13 Wed>
-** TODO Vim Tutorial
+** TODO Learn Enough Text Editor
 SCHEDULED: <2023-09-14 Thu>
-** TODO Emacs Tutorial
+** TODO Vim Tutorial
 SCHEDULED: <2023-09-15 Fri>
-** TODO Learn Enough Git
+** TODO Emacs Tutorial
 SCHEDULED: <2023-09-16 Sat>
+** TODO Learn Enough Git
 ** TODO Learn Enough HTML
-SCHEDULED: <2023-09-17 Sun>
 ** TODO Learn Enough CSS & Layout
-SCHEDULED: <2023-09-24 Sun>
 * Nice to Do

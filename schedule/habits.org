@@ -2,16 +2,23 @@
 #+TODO: TODO DONT DONE
 
 * To Develop
-** TODO Go for a Morning Walk
-SCHEDULED: <2023-09-13 Wed ++1d>
+** TODO Go for a Walk
+SCHEDULED: <2023-09-14 Thu ++1d>
 :PROPERTIES:
-:LAST_REPEAT: [2023-09-12 Tue 07:20]
+:LAST_REPEAT: [2023-09-13 Wed 20:16]
 :END:
+- State "DONE"       from "DONT"       [2023-09-13 Wed 20:16]
 - State "DONE"       from "DONT"       [2023-09-12 Tue 07:20]
 * To Eliminate
+** DONT Touch Your Face
+SCHEDULED: <2023-09-11 Mon ++1d>
 ** DONT Waste Time on Social Media
 SCHEDULED: <2023-09-11 Mon ++1d>
 ** DONT Smoke Cigarette
 SCHEDULED: <2023-09-11 Mon ++1d>
 ** DONT Eat Junk Food
-SCHEDULED: <2023-09-11 Mon ++1d>
+SCHEDULED: <2023-09-14 Thu ++1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-09-13 Wed 20:17]
+:END:
+- State "DONE"       from "DONT"       [2023-09-13 Wed 20:17]
