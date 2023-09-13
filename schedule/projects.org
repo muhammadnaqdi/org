@@ -4,7 +4,7 @@
 ** TODO Write a Short Story
 DEADLINE: <2023-09-30 Sat>
 * Less Important
-** TODO Learn Enough Command Line
+** DONE Learn Enough Command Line
 SCHEDULED: <2023-09-13 Wed>
 ** TODO Learn Enough Text Editor
 SCHEDULED: <2023-09-14 Thu>
