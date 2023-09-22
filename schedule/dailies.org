@@ -2,25 +2,13 @@
 
 * Very Important
 ** TODO Study Computer Science
-SCHEDULED: <2023-09-14 Thu ++1d>
-:PROPERTIES:
-:LAST_REPEAT: [2023-09-13 Wed 20:16]
-:END:
-- State "DONE"       from "TODO"       [2023-09-13 Wed 20:16]
-- State "DONE"       from "TODO"       [2023-09-12 Tue 10:12]
+SCHEDULED: <2023-09-22 Fri ++1d>
 * Less Important
 ** TODO Study Math
-SCHEDULED: <2023-09-11 Mon ++1d>
+SCHEDULED: <2023-09-22 Fri ++1d>
 ** TODO Study English
-SCHEDULED: <2023-09-11 Mon ++1d>
+SCHEDULED: <2023-09-22 Fri ++1d>
 * Nice to Do
 ** TODO Read
-SCHEDULED: <2023-09-11 Mon ++1d>
 ** TODO Write
-SCHEDULED: <2023-09-11 Mon ++1d>
 ** TODO Practice Typing
-SCHEDULED: <2023-09-14 Thu ++1d>
-:PROPERTIES:
-:LAST_REPEAT: [2023-09-13 Wed 20:16]
-:END:
-- State "DONE"       from "TODO"       [2023-09-13 Wed 20:16]

@@ -1,18 +1,19 @@
 #+title: Projects
 
 * Very Important
-** TODO Write a Short Story
-DEADLINE: <2023-09-30 Sat>
 * Less Important
 ** DONE Learn Enough Command Line
-SCHEDULED: <2023-09-13 Wed>
+** TODO Learn Regex
+** TODO Learn Sed
+** TODO Learn Awk
 ** TODO Learn Enough Text Editor
-SCHEDULED: <2023-09-14 Thu>
 ** TODO Vim Tutorial
-SCHEDULED: <2023-09-15 Fri>
 ** TODO Emacs Tutorial
-SCHEDULED: <2023-09-16 Sat>
 ** TODO Learn Enough Git
-** TODO Learn Enough HTML
-** TODO Learn Enough CSS & Layout
+** TODO Learn Magit
+** TODO Learn HTML
+** TODO Learn CSS & Layout
+** TODO Learn JavaScript
+** TODO Learn Python
+** TODO Learn Ruby
 * Nice to Do
