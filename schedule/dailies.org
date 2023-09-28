@@ -1,4 +1,4 @@
-#+title: Dailies
+#+title:Dailies
 
 * Very Important
 ** TODO Study Computer Science

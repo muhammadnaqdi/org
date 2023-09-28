@@ -1,4 +1,4 @@
-#+title: Text Editor
+#+title:Text Editor
 
 * Introduction to Text Editors
 ** Summary
